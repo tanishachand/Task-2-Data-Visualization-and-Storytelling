@@ -1,5 +1,5 @@
-# Tak-1-Data-Visualization-and-Storytelling
-Import Data From Kaggle: Chocolate Sales Data
+# Tak-2-Data-Visualization-and-Storytelling
+Import Data From Kaggle: Chocolate Sales Data.
 Key Performance Indicator (KPI): Total Revenue (e.g., $6.18 Million).
 Trend Analysis: Monthly Sales Over Time (using a Line Chart).
 Performance Tracking: Identification of Top 10 Sales Persons and Top 10 Product (using Column and Bar Charts).
